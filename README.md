@@ -37,10 +37,7 @@ cd REPO_NAME
 
 Install dependencies:
 
-npm install
-or
-
-yarn install
+npm i or npm install
 
 ▶️ Run the Project (Development)
 
