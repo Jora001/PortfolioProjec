@@ -1,11 +1,11 @@
-#  Next.js Portfolio Project
+#  Next.js/Node.js Portfolio Project
 
 This is a modern portfolio website built with **Next.js**, **TypeScript**, and **Tailwind CSS**.
 The project showcases my experience, projects, and skills with a clean UI, animations, and responsive design.
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 - Next.js
 - React
