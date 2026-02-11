@@ -19,7 +19,7 @@ const Footer = () => {
               <span className="gradient-text">&lt;Portfolio /&gt;</span>
             </a>
             <p className="text-sm text-muted-foreground">
-               {currentYear} Portfolio Anahit Otaryan  C/C++ Engineer
+               {currentYear} Portfolio Anahit Otaryan C/C++ Engineer
             </p>
           </div>
 
@@ -40,7 +40,7 @@ const Footer = () => {
           </div>
 
           <p className="text-sm text-muted-foreground flex items-center gap-1">
-            © 2025 J.H. All rights reserved.
+            © 2025. All rights reserved
           </p>
         </div>
       </div>
